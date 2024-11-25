@@ -31,7 +31,7 @@ function App() {
       <footer className="footer">
         <div className="container text-center">
           <p>
-            &copy; {new Date().getFullYear()} TP-FINAL HIA | Designed with ❤️
+            &copy; {new Date().getFullYear()} Prueba de despliegue continuo | Designed with ❤️
           </p>
         </div>
       </footer>
